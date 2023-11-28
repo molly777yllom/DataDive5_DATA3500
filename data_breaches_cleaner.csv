@@ -1,0 +1,353 @@
+Unnamed: 0,Entity,Year,Records,Organization type,Method,Sources,int_records,int_year,broad_categories,method_categories,num_records,num_year,org_categories,method_subcategories,hacked
+0,21st Century Oncology,2016,2200000,healthcare,hacked,[5][6],2200000.0,2016.0,Healthcare/Wellness,Hacking/Cyberattacks,2200000.0,2016,Healthcare/Wellness,Hacking,Hacking
+1,500px,2020,14870304,social networking,hacked,[7],14870304.0,2020.0,Social Media,Hacking/Cyberattacks,14870304.0,2020,Social Media,Hacking,Hacking
+2,Accendo Insurance Co.,2020,175350,healthcare,poor security,[8][9],175350.0,2020.0,Healthcare/Wellness,Poor Security Practices,175350.0,2020,Healthcare/Wellness,Poor Security Practices,Non-Hacking
+3,Adobe Systems Incorporated,2013,152000000,tech,hacked,[10],152000000.0,2013.0,Technology/IT,Hacking/Cyberattacks,152000000.0,2013,Technology/IT/Analytics,Hacking,Hacking
+4,Adobe Inc.,2019,7500000,tech,poor security,[11][12],7500000.0,2019.0,Technology/IT,Poor Security Practices,7500000.0,2019,Technology/IT/Analytics,Poor Security Practices,Non-Hacking
+5,Advocate Medical Group,2017,4000000,healthcare,lost / stolen media,[13][14],4000000.0,2017.0,Healthcare/Wellness,Physical Loss/Theft,4000000.0,2017,Healthcare/Wellness,Physical Loss/Theft,Non-Hacking
+6,AerServ (subsidiary of InMobi),2018,75000,advertising,hacked,[15],75000.0,2018.0,None,Hacking/Cyberattacks,75000.0,2018,Media/Entertainment/Gaming/Gambling,Hacking,Hacking
+7,"Affinity Health Plan, Inc.",2013,344579,healthcare,lost / stolen media,[16][17],344579.0,2013.0,Healthcare/Wellness,Physical Loss/Theft,344579.0,2013,Healthcare/Wellness,Physical Loss/Theft,Non-Hacking
+8,Airtel,2019,320000000,telecommunications,poor security,[18],320000000.0,2019.0,None,Poor Security Practices,320000000.0,2019,Telecommunications,Poor Security Practices,Non-Hacking
+9,Air Canada,2018,20000,transport,hacked,[19],20000.0,2018.0,None,Hacking/Cyberattacks,20000.0,2018,Transport/Travel,Hacking,Hacking
+10,Amazon Japan G.K.,2019,unknown,web,accidentally published,[20][21],,2019.0,None,Accidental Exposure,,2019,Website/Web Services,Accidental Exposure,Non-Hacking
+11,TD Ameritrade,2005,200000,financial,lost / stolen media,[22],200000.0,2005.0,None,Physical Loss/Theft,200000.0,2005,Financial Services,Physical Loss/Theft,Non-Hacking
+12,Ancestry.com,2021,300000,web,poor security,[23],300000.0,2021.0,None,Poor Security Practices,300000.0,2021,Website/Web Services,Poor Security Practices,Non-Hacking
+13,Animal Jam,2020,46000000,gaming,hacked,[24],46000000.0,2020.0,None,Hacking/Cyberattacks,46000000.0,2020,Media/Entertainment/Gaming/Gambling,Hacking,Hacking
+14,"Ankle & Foot Center of Tampa Bay, Inc.",2021,156000,healthcare,hacked,[25],156000.0,2021.0,Healthcare/Wellness,Hacking/Cyberattacks,156000.0,2021,Healthcare/Wellness,Hacking,Hacking
+15,Anthem Inc.,2015,80000000,healthcare,hacked,[26][27],80000000.0,2015.0,Healthcare/Wellness,Hacking/Cyberattacks,80000000.0,2015,Healthcare/Wellness,Hacking,Hacking
+16,AOL,2004,92000000,web,"inside job, hacked",[28][29],92000000.0,2004.0,None,Hacking/Cyberattacks,92000000.0,2004,Website/Web Services,Inside Job,Hacking
+17,AOL,2006,20000000,web,accidentally published,[30],20000000.0,2006.0,None,Accidental Exposure,20000000.0,2006,Website/Web Services,Accidental Exposure,Non-Hacking
+18,AOL,2014,2400000,web,hacked,[31],2400000.0,2014.0,None,Hacking/Cyberattacks,2400000.0,2014,Website/Web Services,Hacking,Hacking
+19,"Apple, Inc./BlueToad",2021,12367232,"tech, retail",accidentally published,[32],12367232.0,2021.0,None,Accidental Exposure,12367232.0,2021,Retail/Food,Accidental Exposure,Non-Hacking
+20,Apple,2021,275000,tech,hacked,[33],275000.0,2021.0,Technology/IT,Hacking/Cyberattacks,275000.0,2021,Technology/IT/Analytics,Hacking,Hacking
+21,Apple Health Medicaid,2021,91000,healthcare,poor security,[34],91000.0,2021.0,Healthcare/Wellness,Poor Security Practices,91000.0,2021,Healthcare/Wellness,Poor Security Practices,Non-Hacking
+22,Ashley Madison,2015,32000000,web,hacked,[35],32000000.0,2015.0,None,Hacking/Cyberattacks,32000000.0,2015,Website/Web Services,Hacking,Hacking
+23,AT&T,2008,113000,telecoms,lost / stolen computer,[36],113000.0,2008.0,None,Physical Loss/Theft,113000.0,2008,Telecommunications,Physical Loss/Theft,Non-Hacking
+24,AT&T,2010,114000,telecoms,hacked,[37],114000.0,2010.0,None,Hacking/Cyberattacks,114000.0,2010,Telecommunications,Hacking,Hacking
+25,Atraf,2021,unknown,dating,hacked,[38],,2021.0,Social Media,Hacking/Cyberattacks,,2021,Social Media,Hacking,Hacking
+26,Auction.co.kr,2008,18000000,web,hacked,[39],18000000.0,2008.0,None,Hacking/Cyberattacks,18000000.0,2008,Website/Web Services,Hacking,Hacking
+27,Australian Immigration Department,2015,G20 world leaders,government,accidentally published,[40],,2015.0,None,Accidental Exposure,,2015,Government/Political/Nonprofit,Accidental Exposure,Non-Hacking
+28,Australian National University,2019,19 years of data,academic,hacked,[41],,2019.0,None,Hacking/Cyberattacks,,2019,Education and Academic,Hacking,Hacking
+29,Automatic Data Processing,2005,125000,financial,poor security,[42],125000.0,2005.0,None,Poor Security Practices,125000.0,2005,Financial Services,Poor Security Practices,Non-Hacking
+30,"AvMed, Inc.",2009,1220000,healthcare,lost / stolen computer,[43],1220000.0,2009.0,Healthcare/Wellness,Physical Loss/Theft,1220000.0,2009,Healthcare/Wellness,Physical Loss/Theft,Non-Hacking
+31,Bailey's Inc.,2015,250000,retail,hacked,[44],250000.0,2015.0,None,Hacking/Cyberattacks,250000.0,2015,Retail/Food,Hacking,Hacking
+32,The Bank of New York Mellon,2008,12500000,financial,lost / stolen media,[45],12500000.0,2008.0,None,Physical Loss/Theft,12500000.0,2008,Financial Services,Physical Loss/Theft,Non-Hacking
+33,Bank of America,2005,1200000,financial,lost / stolen media,[46],1200000.0,2005.0,None,Physical Loss/Theft,1200000.0,2005,Financial Services,Physical Loss/Theft,Non-Hacking
+34,Barnes & Noble,2012,63 stores,retail,hacked,[47][48],,2012.0,None,Hacking/Cyberattacks,,2012,Retail/Food,Hacking,Hacking
+35,Bell Canada,2017,1900000,telecoms,poor security,[49],1900000.0,2017.0,None,Poor Security Practices,1900000.0,2017,Telecommunications,Poor Security Practices,Non-Hacking
+36,Bell Canada,2018,100000,telecoms,hacked,[50],100000.0,2018.0,None,Hacking/Cyberattacks,100000.0,2018,Telecommunications,Hacking,Hacking
+37,Benesse,2014,35040000,educational services,hacked,[51],35040000.0,2014.0,None,Hacking/Cyberattacks,35040000.0,2014,Education and Academic,Hacking,Hacking
+38,Betfair,2010,2300000,web,hacked,[36],2300000.0,2010.0,None,Hacking/Cyberattacks,2300000.0,2010,Website/Web Services,Hacking,Hacking
+39,Bethesda Game Studios,2011,200000,gaming,hacked,[52],200000.0,2011.0,None,Hacking/Cyberattacks,200000.0,2011,Media/Entertainment/Gaming/Gambling,Hacking,Hacking
+40,Bethesda Game Studios,2018,,gaming,accidentally published,[53],,2018.0,None,Accidental Exposure,,2018,Media/Entertainment/Gaming/Gambling,Accidental Exposure,Non-Hacking
+41,Betsson Group,2020,unknown,gambling,unknown,[54],,2020.0,None,Unknown/Unspecified,,2020,Media/Entertainment/Gaming/Gambling,Unknown/Unspecified,Non-Hacking
+42,Blank Media Games,2018,7633234,gaming,hacked,[55][56],7633234.0,2018.0,None,Hacking/Cyberattacks,7633234.0,2018,Media/Entertainment/Gaming/Gambling,Hacking,Hacking
+43,Blizzard Entertainment,2012,14000000,gaming,hacked,[57][58],14000000.0,2012.0,None,Hacking/Cyberattacks,14000000.0,2012,Media/Entertainment/Gaming/Gambling,Hacking,Hacking
+44,BlueCross BlueShield of Tennessee,2009,1023209,healthcare,lost / stolen media,[59],1023209.0,2009.0,Healthcare/Wellness,Physical Loss/Theft,1023209.0,2009,Healthcare/Wellness,Physical Loss/Theft,Non-Hacking
+45,BMO and Simplii,2018,90000,banking,poor security,[60],90000.0,2018.0,None,Poor Security Practices,90000.0,2018,Financial Services,Poor Security Practices,Non-Hacking
+46,2018 British Airways cyberattack,2018,500000,transport,hacked,[61][62][63],500000.0,2018.0,None,Hacking/Cyberattacks,500000.0,2018,Transport/Travel,Hacking,Hacking
+47,British Airways,2015,tens of thousands,retail,hacked,[64],,2015.0,None,Hacking/Cyberattacks,,2015,Retail/Food,Hacking,Hacking
+48,2019 Bulgarian revenue agency hack,2019,"over 5,000,000",government,hacked,[65],,2019.0,None,Hacking/Cyberattacks,,2019,Government/Political/Nonprofit,Hacking,Hacking
+49,California Department of Child Support Services,2012,800000,government,lost / stolen media,[36][66],800000.0,2012.0,None,Physical Loss/Theft,800000.0,2012,Government/Political/Nonprofit,Physical Loss/Theft,Non-Hacking
+50,Canva,2019,140000000,web,hacked,[67][68][69],140000000.0,2019.0,None,Hacking/Cyberattacks,140000000.0,2019,Website/Web Services,Hacking,Hacking
+51,Capcom,2020,350000,game,hacked,[70],350000.0,2020.0,None,Hacking/Cyberattacks,350000.0,2020,Media/Entertainment/Gaming/Gambling,Hacking,Hacking
+52,Capital One,2019,106000000,financial,unsecured S3 bucket,[71][72],106000000.0,2019.0,None,Poor Security Practices,106000000.0,2019,Financial Services,Poor Security Practices,Non-Hacking
+53,"CardSystems Solutions Inc. (MasterCard, Visa, Discover Financial Services and American Express)",2005,40000000,financial,hacked,[73][74],40000000.0,2005.0,None,Hacking/Cyberattacks,40000000.0,2005,Financial Services,Hacking,Hacking
+54,Cathay Pacific Airways,2018,9400000,transport,hacked,[75],9400000.0,2018.0,None,Hacking/Cyberattacks,9400000.0,2018,Transport/Travel,Hacking,Hacking
+55,CareFirst BlueCross Blue Shield - Maryland,2015,1100000,healthcare,hacked,[76],1100000.0,2015.0,Healthcare/Wellness,Hacking/Cyberattacks,1100000.0,2015,Healthcare/Wellness,Hacking,Hacking
+56,Central Coast Credit Union,2016,60000,financial,hacked,[77],60000.0,2016.0,None,Hacking/Cyberattacks,60000.0,2016,Financial Services,Hacking,Hacking
+57,Central Hudson Gas & Electric,2013,110000,energy,hacked,[78],110000.0,2013.0,None,Hacking/Cyberattacks,110000.0,2013,Energy and Infrastructure,Hacking,Hacking
+58,CheckFree Corporation,2009,5000000,financial,hacked,[79],5000000.0,2009.0,None,Hacking/Cyberattacks,5000000.0,2009,Financial Services,Hacking,Hacking
+59,CheckPeople,2020,56000000,background check,unknown,[80],56000000.0,2020.0,None,Unknown/Unspecified,56000000.0,2020,Financial Services,Unknown/Unspecified,Non-Hacking
+60,China Software Developer Network,2011,6000000,web,hacked,[81],6000000.0,2011.0,None,Hacking/Cyberattacks,6000000.0,2011,Website/Web Services,Hacking,Hacking
+61,"Chinese gaming websites (three: Duowan, 7K7K, 178.com)",2011,10000000,web,hacked,[82],10000000.0,2011.0,None,Hacking/Cyberattacks,10000000.0,2011,Website/Web Services,Hacking,Hacking
+62,Citigroup,2005,3900000,financial,lost / stolen media,[83],3900000.0,2005.0,None,Physical Loss/Theft,3900000.0,2005,Financial Services,Physical Loss/Theft,Non-Hacking
+63,Citigroup,2011,360083,financial,hacked,[84],360083.0,2011.0,None,Hacking/Cyberattacks,360083.0,2011,Financial Services,Hacking,Hacking
+64,Citigroup,2013,150000,financial,poor security,[85],150000.0,2013.0,None,Poor Security Practices,150000.0,2013,Financial Services,Poor Security Practices,Non-Hacking
+65,City and Hackney Teaching Primary Care Trust,2007,160000,healthcare,lost / stolen media,[86],160000.0,2007.0,Healthcare/Wellness,Physical Loss/Theft,160000.0,2007,Healthcare/Wellness,Physical Loss/Theft,Non-Hacking
+66,Clearview AI,2020,unknown (client list),information technology,hacked,[87][88][89],,2020.0,Technology/IT,Hacking/Cyberattacks,,2020,Technology/IT/Analytics,Hacking,Hacking
+67,Colorado government,2010,105470,healthcare,lost / stolen computer,[90],105470.0,2010.0,Healthcare/Wellness,Physical Loss/Theft,105470.0,2010,Healthcare/Wellness,Physical Loss/Theft,Non-Hacking
+68,Community Health Systems,2014,4500000,healthcare,hacked,[91],4500000.0,2014.0,Healthcare/Wellness,Hacking/Cyberattacks,4500000.0,2014,Healthcare/Wellness,Hacking,Hacking
+69,Philippines Commission on Elections,2016,55000000,government,hacked,,55000000.0,2016.0,None,Hacking/Cyberattacks,55000000.0,2016,Government/Political/Nonprofit,Hacking,Hacking
+70,Compass Bank,2007,1000000,financial,inside job,[36][92],1000000.0,2007.0,None,Insider Threats,1000000.0,2007,Financial Services,Insider Threats,Non-Hacking
+71,Countrywide Financial Corp,2006,2600000,financial,inside job,[36],2600000.0,2006.0,None,Insider Threats,2600000.0,2006,Financial Services,Insider Threats,Non-Hacking
+72,Countrywide Financial Corp,2011,2500000,financial,inside job,[93],2500000.0,2011.0,None,Insider Threats,2500000.0,2011,Financial Services,Insider Threats,Non-Hacking
+73,Centers for Medicare & Medicaid Services,2018,75000,healthcare,hacked,[94],75000.0,2018.0,Healthcare/Wellness,Hacking/Cyberattacks,75000.0,2018,Healthcare/Wellness,Hacking,Hacking
+74,Cox Communications,2016,40000,telecoms,hacked,[95],40000.0,2016.0,None,Hacking/Cyberattacks,40000.0,2016,Telecommunications,Hacking,Hacking
+75,"Crescent Health Inc., Walgreens",2013,100000,healthcare,lost / stolen computer,[78][96],100000.0,2013.0,Healthcare/Wellness,Physical Loss/Theft,100000.0,2013,Healthcare/Wellness,Physical Loss/Theft,Non-Hacking
+76,CVS,2015,millions,retail,hacked,[97],,2015.0,None,Hacking/Cyberattacks,,2015,Retail/Food,Hacking,Hacking
+77,CyberServe,2021,1107034,hosting provider,hacked,[98][99],1107034.0,2021.0,None,Hacking/Cyberattacks,1107034.0,2021,Technology/IT/Analytics,Hacking,Hacking
+78,Dai Nippon Printing,2007,8637405,retail,inside job,[100],8637405.0,2007.0,None,Insider Threats,8637405.0,2007,Retail/Food,Insider Threats,Non-Hacking
+79,"Data Processors International (MasterCard, Visa, Discover Financial Services and American Express)",2008,8000000,financial,hacked,[101],8000000.0,2008.0,None,Hacking/Cyberattacks,8000000.0,2008,Financial Services,Hacking,Hacking
+80,Defense Integrated Data Center (South Korea),2017,235 GB,military,hacked,[102],,2017.0,None,Hacking/Cyberattacks,,2017,Energy and Infrastructure,Hacking,Hacking
+81,Dedalus,2021,500000,health,poor security,[103],500000.0,2021.0,None,Poor Security Practices,500000.0,2021,Healthcare/Wellness,Poor Security Practices,Non-Hacking
+82,Deloitte,2017,350 clients emails,"consulting, accounting",poor security,[104][105],,2017.0,None,Poor Security Practices,,2017,Financial Services,Poor Security Practices,Non-Hacking
+83,Democratic National Committee,2016,19252,political,hacked,[106],19252.0,2016.0,None,Hacking/Cyberattacks,19252.0,2016,Government/Political/Nonprofit,Hacking,Hacking
+84,US Department of Homeland Security,2016,30000,government,poor security,[107][108],30000.0,2016.0,None,Poor Security Practices,30000.0,2016,Government/Political/Nonprofit,Poor Security Practices,Non-Hacking
+85,Desjardins,2019,9700000,financial,inside job,[109],9700000.0,2019.0,None,Insider Threats,9700000.0,2019,Financial Services,Insider Threats,Non-Hacking
+86,Domino's Pizza (France),2014,600000,web,hacked,[110],600000.0,2014.0,None,Hacking/Cyberattacks,600000.0,2014,Website/Web Services,Hacking,Hacking
+87,DoorDash,2019,4900000,web,hacked,[111],4900000.0,2019.0,None,Hacking/Cyberattacks,4900000.0,2019,Website/Web Services,Hacking,Hacking
+88,UK Driving Standards Agency,2007,3000000,government,lost / stolen media,[112],3000000.0,2007.0,None,Physical Loss/Theft,3000000.0,2007,Government/Political/Nonprofit,Physical Loss/Theft,Non-Hacking
+89,Dropbox,2012,68648009,web,hacked,[113],68648009.0,2012.0,None,Hacking/Cyberattacks,68648009.0,2012,Website/Web Services,Hacking,Hacking
+90,Drupal,2013,1000000,web,hacked,[114],1000000.0,2013.0,None,Hacking/Cyberattacks,1000000.0,2013,Website/Web Services,Hacking,Hacking
+91,DSW Inc.,2005,1400000,retail,hacked,[115],1400000.0,2005.0,None,Hacking/Cyberattacks,1400000.0,2005,Retail/Food,Hacking,Hacking
+92,Dubsmash,2018,162000000,messaging app,hacked,[116][7],162000000.0,2018.0,Social Media,Hacking/Cyberattacks,162000000.0,2018,Social Media,Hacking,Hacking
+93,Dun & Bradstreet,2013,1000000,tech,hacked,[117][118],1000000.0,2013.0,Technology/IT,Hacking/Cyberattacks,1000000.0,2013,Technology/IT/Analytics,Hacking,Hacking
+94,EasyJet,2019,"9,000,000 (approx) - basic booking, 2208 (credit card details)",transport,hacked,[119][120],,,None,Hacking/Cyberattacks,,2019,Transport/Travel,Hacking,Hacking
+95,eBay,2014,145000000,web,hacked,[121],145000000.0,2014.0,None,Hacking/Cyberattacks,145000000.0,2014,Website/Web Services,Hacking,Hacking
+96,"Earl Enterprises(Buca di Beppo, Earl of Sandwich, Planet Hollywood,Chicken Guy, Mixology, Tequila Taqueria)",2018,2000000,restaurant,hacked,[122],2000000.0,,None,Hacking/Cyberattacks,2000000.0,2018,Retail/Food,Hacking,Hacking
+97,Educational Credit Management Corporation,2010,3300000,financial,lost / stolen media,[123],3300000.0,2010.0,None,Physical Loss/Theft,3300000.0,2010,Financial Services,Physical Loss/Theft,Non-Hacking
+98,Eisenhower Medical Center,2011,514330,healthcare,lost / stolen computer,[124],514330.0,2011.0,Healthcare/Wellness,Physical Loss/Theft,514330.0,2011,Healthcare/Wellness,Physical Loss/Theft,Non-Hacking
+99,ElasticSearch,2019,108000000,tech,poor security,[125],108000000.0,2019.0,Technology/IT,Poor Security Practices,108000000.0,2019,Technology/IT/Analytics,Poor Security Practices,Non-Hacking
+100,Embassy Cables,2010,251000,government,inside job,[126],251000.0,2010.0,None,Insider Threats,251000.0,2010,Government/Political/Nonprofit,Insider Threats,Non-Hacking
+101,"Emergency Healthcare Physicians, Ltd.",2010,180111,healthcare,lost / stolen media,[124][127],180111.0,2010.0,Healthcare/Wellness,Physical Loss/Theft,180111.0,2010,Healthcare/Wellness,Physical Loss/Theft,Non-Hacking
+102,Emory Healthcare,2012,315000,healthcare,poor security,[124],315000.0,2012.0,Healthcare/Wellness,Poor Security Practices,315000.0,2012,Healthcare/Wellness,Poor Security Practices,Non-Hacking
+103,Equifax,2017,163119000,"financial, credit reporting",poor security,[128][129],163119000.0,2017.0,None,Poor Security Practices,163119000.0,2017,Financial Services,Poor Security Practices,Non-Hacking
+104,European Central Bank,2014,unknown,financial,hacked,[130][131],,2014.0,None,Hacking/Cyberattacks,,2014,Financial Services,Hacking,Hacking
+105,Evernote,2013,50000000,web,hacked,[132][133],50000000.0,2013.0,None,Hacking/Cyberattacks,50000000.0,2013,Website/Web Services,Hacking,Hacking
+106,Exactis,2018,340000000,data broker,poor security,[134],340000000.0,2018.0,None,Poor Security Practices,340000000.0,2018,Technology/IT/Analytics,Poor Security Practices,Non-Hacking
+107,Excellus BlueCross BlueShield,2015,10000000,healthcare,hacked,[135],10000000.0,2015.0,Healthcare/Wellness,Hacking/Cyberattacks,10000000.0,2015,Healthcare/Wellness,Hacking,Hacking
+108,Experian - T-Mobile US,2015,15000000,telecoms,hacked,[136][137],15000000.0,2015.0,None,Hacking/Cyberattacks,15000000.0,2015,Telecommunications,Hacking,Hacking
+109,EyeWire,2016,unknown,tech,lost / stolen computer,[138],,2016.0,Technology/IT,Physical Loss/Theft,,2016,Technology/IT/Analytics,Physical Loss/Theft,Non-Hacking
+110,Facebook,2013,6000000,social network,accidentally published,[139],6000000.0,2013.0,Social Media,Accidental Exposure,6000000.0,2013,Social Media,Accidental Exposure,Non-Hacking
+111,Facebook,2018,50000000,social network,poor security,[140][141][142][143][144][145],50000000.0,2018.0,Social Media,Poor Security Practices,50000000.0,2018,Social Media,Poor Security Practices,Non-Hacking
+112,Facebook,2019,540000000,social network,poor security,[146][147],540000000.0,2019.0,Social Media,Poor Security Practices,540000000.0,2019,Social Media,Poor Security Practices,Non-Hacking
+113,Facebook,2019,1500000,social network,accidentally uploaded,[148],1500000.0,2019.0,Social Media,Accidental Exposure,1500000.0,2019,Social Media,Accidental Exposure,Non-Hacking
+114,Facebook,2019,267000000,social network,poor security,[149][150],267000000.0,2019.0,Social Media,Poor Security Practices,267000000.0,2019,Social Media,Poor Security Practices,Non-Hacking
+115,Fast Retailing,2019,461091,retail,hacked,[151],461091.0,2019.0,None,Hacking/Cyberattacks,461091.0,2019,Retail/Food,Hacking,Hacking
+116,Federal Reserve Bank of Cleveland,2010,400000,financial,hacked,[36],400000.0,2010.0,None,Hacking/Cyberattacks,400000.0,2010,Financial Services,Hacking,Hacking
+117,Fidelity National Information Services,2007,8500000,financial,inside job,[152],8500000.0,2007.0,None,Insider Threats,8500000.0,2007,Financial Services,Insider Threats,Non-Hacking
+118,First American Corporation,2019,885000000,financial service company,poor security,[153],885000000.0,2019.0,None,Poor Security Practices,885000000.0,2019,Financial Services,Poor Security Practices,Non-Hacking
+119,FireEye,2020,Unknown,Information Security,hacked,[154][155][156],,2020.0,Technology/IT,Hacking/Cyberattacks,,2020,Technology/IT/Analytics,Hacking,Hacking
+120,Florida Department of Juvenile Justice,2013,100000,government,lost / stolen computer,[78],100000.0,2013.0,None,Physical Loss/Theft,100000.0,2013,Government/Political/Nonprofit,Physical Loss/Theft,Non-Hacking
+121,Friend Finder Networks,2016,412214295,web,poor security / hacked,[157][158],412214295.0,2016.0,None,Hacking/Cyberattacks,412214295.0,2016,Website/Web Services,Poor Security,Hacking
+122,Funimation,2016,2500000,web,hacked,[159][160],2500000.0,2016.0,None,Hacking/Cyberattacks,2500000.0,2016,Website/Web Services,Hacking,Hacking
+123,Formspring,2012,420000,web,accidentally published,[161],420000.0,2012.0,None,Accidental Exposure,420000.0,2012,Website/Web Services,Accidental Exposure,Non-Hacking
+124,Unknown,2020,201000000,personal and demographic data about residents and their properties of US,Poor security,[162],201000000.0,2020.0,None,Poor Security Practices,201000000.0,2020,Unknown,Poor Security Practices,Non-Hacking
+125,Gamigo,2012,8000000,web,hacked,[163],8000000.0,2012.0,None,Hacking/Cyberattacks,8000000.0,2012,Website/Web Services,Hacking,Hacking
+126,Gap Inc.,2007,800000,retail,lost / stolen computer,[164],800000.0,2007.0,None,Physical Loss/Theft,800000.0,2007,Retail/Food,Physical Loss/Theft,Non-Hacking
+127,Gawker,2010,1500000,web,hacked,[165][166],1500000.0,2010.0,None,Hacking/Cyberattacks,1500000.0,2010,Website/Web Services,Hacking,Hacking
+128,Global Payments,2012,7000000,financial,hacked,[167],7000000.0,2012.0,None,Hacking/Cyberattacks,7000000.0,2012,Financial Services,Hacking,Hacking
+129,Gmail,2014,5000000,web,hacked,[168],5000000.0,2014.0,None,Hacking/Cyberattacks,5000000.0,2014,Website/Web Services,Hacking,Hacking
+130,Google Plus,2018,500000,social network,poor security,[169][170][171],500000.0,2018.0,Social Media,Poor Security Practices,500000.0,2018,Social Media,Poor Security Practices,Non-Hacking
+131,Greek government,2012,9000000,government,hacked,[172],9000000.0,2012.0,None,Hacking/Cyberattacks,9000000.0,2012,Government/Political/Nonprofit,Hacking,Hacking
+132,Grozio Chirurgija,2017,25000,healthcare,hacked,[173][174][175],25000.0,2017.0,Healthcare/Wellness,Hacking/Cyberattacks,25000.0,2017,Healthcare/Wellness,Hacking,Hacking
+133,GS Caltex,2008,11100000,energy,inside job,[176][177],11100000.0,2008.0,None,Insider Threats,11100000.0,2008,Energy and Infrastructure,Insider Threats,Non-Hacking
+134,Gyft,2016,unknown,web,hacked,[178][179],,2016.0,None,Hacking/Cyberattacks,,2016,Website/Web Services,Hacking,Hacking
+135,Hannaford Brothers Supermarket Chain,2007,4200000,retail,hacked,[180],4200000.0,2007.0,None,Hacking/Cyberattacks,4200000.0,2007,Retail/Food,Hacking,Hacking
+136,HauteLook,2018,28517244,retail,hacked,[181][182][183],28517244.0,2018.0,None,Hacking/Cyberattacks,28517244.0,2018,Retail/Food,Hacking,Hacking
+137,Health Net,2009,500000,healthcare,lost / stolen media,[184],500000.0,2009.0,Healthcare/Wellness,Physical Loss/Theft,500000.0,2009,Healthcare/Wellness,Physical Loss/Theft,Non-Hacking
+138,Health Net — IBM,2011,1900000,healthcare,lost / stolen media,[185],1900000.0,2011.0,Healthcare/Wellness,Physical Loss/Theft,1900000.0,2011,Healthcare/Wellness,Physical Loss/Theft,Non-Hacking
+139,Health Sciences Authority (Singapore),2019,808000,healthcare,poor security,[186],808000.0,2019.0,Healthcare/Wellness,Poor Security Practices,808000.0,2019,Healthcare/Wellness,Poor Security Practices,Non-Hacking
+140,Health Service Executive,2021,unknown,healthcare,unknown,[187],,2021.0,Healthcare/Wellness,Unknown/Unspecified,,2021,Healthcare/Wellness,Unknown/Unspecified,Non-Hacking
+141,Heartland,2009,130000000,financial,hacked,[188][189],130000000.0,2009.0,None,Hacking/Cyberattacks,130000000.0,2009,Financial Services,Hacking,Hacking
+142,Heathrow Airport,2017,2.5GB,transport,lost / stolen media,[190][191][192],,2017.0,None,Physical Loss/Theft,,2017,Transport/Travel,Physical Loss/Theft,Non-Hacking
+143,Hewlett Packard,2006,200000,"tech, retail",lost / stolen media,[193],200000.0,2006.0,None,Physical Loss/Theft,200000.0,2006,Retail/Food,Physical Loss/Theft,Non-Hacking
+144,Hilton Hotels,2014,363000,hotel,hacked,[194][195],363000.0,,None,Hacking/Cyberattacks,363000.0,2014,Transport/Travel,Hacking,Hacking
+145,Home Depot,2014,56000000,retail,hacked,[196],56000000.0,2014.0,None,Hacking/Cyberattacks,56000000.0,2014,Retail/Food,Hacking,Hacking
+146,Honda Canada,2011,283000,retail,poor security,[197],283000.0,2011.0,None,Poor Security Practices,283000.0,2011,Retail/Food,Poor Security Practices,Non-Hacking
+147,Hyatt Hotels,2015,250 locations,hotel,hacked,[198][199],,2015.0,None,Hacking/Cyberattacks,,2015,Transport/Travel,Hacking,Hacking
+148,Iberdrola,2022,1300000,energy,poor security,[200],1300000.0,2022.0,None,Poor Security Practices,1300000.0,2022,Energy and Infrastructure,Poor Security Practices,Non-Hacking
+149,Instagram,2020,200000000,social network,poor security,[201],200000000.0,2020.0,Social Media,Poor Security Practices,200000000.0,2020,Social Media,Poor Security Practices,Non-Hacking
+150,Internal Revenue Service,2015,720000,financial,hacked,[202][203],720000.0,2015.0,None,Hacking/Cyberattacks,720000.0,2015,Financial Services,Hacking,Hacking
+151,International Committee of the Red Cross,2022,515000,humanitarian,unknown,[204][205][206],515000.0,2022.0,None,Unknown/Unspecified,515000.0,2022,Government/Political/Nonprofit,Unknown/Unspecified,Non-Hacking
+152,Inuvik hospital,2016,6700,healthcare,inside job,[207],6700.0,2016.0,Healthcare/Wellness,Insider Threats,6700.0,2016,Healthcare/Wellness,Insider Threats,Non-Hacking
+153,"Iranian banks (three: Saderat, Eghtesad Novin, and Saman)",2012,3000000,financial,hacked,[208],3000000.0,2012.0,None,Hacking/Cyberattacks,3000000.0,2012,Financial Services,Hacking,Hacking
+154,Japan Pension Service,2015,1250000,special public corporation,hacked,[209],1250000.0,2015.0,None,Hacking/Cyberattacks,1250000.0,2015,Energy and Infrastructure,Hacking,Hacking
+155,Japanet Takata,2004,510000,shopping,inside job,[210],510000.0,2004.0,None,Insider Threats,510000.0,2004,Retail/Food,Insider Threats,Non-Hacking
+156,"Jefferson County, West Virginia",2008,1600000,government,accidentally published,[36][211],1600000.0,2008.0,None,Accidental Exposure,1600000.0,2008,Government/Political/Nonprofit,Accidental Exposure,Non-Hacking
+157,JP Morgan Chase,2010,2600000,financial,lost / stolen media,[212],2600000.0,2010.0,None,Physical Loss/Theft,2600000.0,2010,Financial Services,Physical Loss/Theft,Non-Hacking
+158,JP Morgan Chase,2014,76000000,financial,hacked,[213],76000000.0,2014.0,None,Hacking/Cyberattacks,76000000.0,2014,Financial Services,Hacking,Hacking
+159,Justdial,2019,100000000,local search,unprotected api,[214],100000000.0,2019.0,None,Poor Security Practices,100000000.0,2019,Technology/IT/Analytics,Poor Security Practices,Non-Hacking
+160,KDDI,2006,4000000,telecoms,hacked,[215],4000000.0,2006.0,None,Hacking/Cyberattacks,4000000.0,2006,Telecommunications,Hacking,Hacking
+161,Kirkwood Community College,2013,125000,academic,hacked,[78][216],125000.0,2013.0,None,Hacking/Cyberattacks,125000.0,2013,Education and Academic,Hacking,Hacking
+162,KM.RU,2016,1500000,web,hacked,[217],1500000.0,2016.0,None,Hacking/Cyberattacks,1500000.0,2016,Website/Web Services,Hacking,Hacking
+163,Koodo Mobile,2020,unknown,mobile carrier,hacked,[218],,2020.0,None,Hacking/Cyberattacks,,2020,Telecommunications,Hacking,Hacking
+164,Korea Credit Bureau,2014,20000000,financial,inside job,[219],20000000.0,2014.0,None,Insider Threats,20000000.0,2014,Financial Services,Insider Threats,Non-Hacking
+165,Kroll Background America,2013,1000000,tech,hacked,[117][118],1000000.0,2013.0,Technology/IT,Hacking/Cyberattacks,1000000.0,2013,Technology/IT/Analytics,Hacking,Hacking
+166,KT Corporation,2012,8700000,telecoms,hacked,[220][221],8700000.0,2012.0,None,Hacking/Cyberattacks,8700000.0,2012,Telecommunications,Hacking,Hacking
+167,LexisNexis,2014,1000000,tech,hacked,[117][118],1000000.0,2014.0,Technology/IT,Hacking/Cyberattacks,1000000.0,2014,Technology/IT/Analytics,Hacking,Hacking
+168,"Landry's, Inc.",2015,500 locations,restaurant,hacked,[222][223],,2015.0,None,Hacking/Cyberattacks,,2015,Retail/Food,Hacking,Hacking
+169,Les Éditions Protégez-vous,2020,380000,publisher (magazine),unknown,[224],380000.0,2020.0,None,Unknown/Unspecified,380000.0,2020,Media/Entertainment/Gaming/Gambling,Unknown/Unspecified,Non-Hacking
+170,LifeLabs,2019,15000000,healthcare,hacked,[225],15000000.0,2019.0,Healthcare/Wellness,Hacking/Cyberattacks,15000000.0,2019,Healthcare/Wellness,Hacking,Hacking
+171,Lincoln Medical & Mental Health Center,2010,130495,healthcare,lost / stolen media,[124][226],130495.0,2010.0,Healthcare/Wellness,Physical Loss/Theft,130495.0,2010,Healthcare/Wellness,Physical Loss/Theft,Non-Hacking
+172,"LinkedIn, eHarmony, Last.fm",2012,8000000,web,accidentally published,[227][228],8000000.0,2012.0,None,Accidental Exposure,8000000.0,2012,Website/Web Services,Accidental Exposure,Non-Hacking
+173,Living Social,2013,50000000,web,hacked,[229][230],50000000.0,2013.0,None,Hacking/Cyberattacks,50000000.0,2013,Website/Web Services,Hacking,Hacking
+174,MacRumors.com,2014,860000,web,hacked,[231],860000.0,2014.0,None,Hacking/Cyberattacks,860000.0,2014,Website/Web Services,Hacking,Hacking
+175,Mandarin Oriental Hotels,2014,10 locations,hotel,hacked,[232][233],,2014.0,None,Hacking/Cyberattacks,,2014,Transport/Travel,Hacking,Hacking
+176,Marriott International,2018,500000000,hotel,hacked,[234],500000000.0,2018.0,None,Hacking/Cyberattacks,500000000.0,2018,Transport/Travel,Hacking,Hacking
+177,Marriott International,2020,5200000,hotel,poor security/inside job,[235],5200000.0,2020.0,None,Poor Security Practices,5200000.0,2020,Transport/Travel,Poor Security Practices,Non-Hacking
+178,Massachusetts Government,2011,210000,government,poor security,[36],210000.0,2011.0,None,Poor Security Practices,210000.0,2011,Government/Political/Nonprofit,Poor Security Practices,Non-Hacking
+179,Massive American business hack including 7-Eleven and Nasdaq,2012,160000000,financial,hacked,[236],160000000.0,2012.0,None,Hacking/Cyberattacks,160000000.0,2012,Financial Services,Hacking,Hacking
+180,US Medicaid,2012,780000,"government, healthcare",hacked,[36],780000.0,2012.0,None,Hacking/Cyberattacks,780000.0,2012,Government/Political/Nonprofit,Hacking,Hacking
+181,Medical Informatics Engineering,2015,3900000,healthcare,hacked,[237],3900000.0,2015.0,Healthcare/Wellness,Hacking/Cyberattacks,3900000.0,2015,Healthcare/Wellness,Hacking,Hacking
+182,Memorial Healthcare System,2011,102153,healthcare,lost / stolen media,[238][124],102153.0,2011.0,Healthcare/Wellness,Physical Loss/Theft,102153.0,2011,Healthcare/Wellness,Physical Loss/Theft,Non-Hacking
+183,Michaels,2014,3000000,retail,hacked,[239],3000000.0,2014.0,None,Hacking/Cyberattacks,3000000.0,2014,Retail/Food,Hacking,Hacking
+184,Microsoft,2019,250000000,tech,data exposed by misconfiguration,[240],250000000.0,2019.0,Technology/IT,Technical Misconfigurations,250000000.0,2019,Technology/IT/Analytics,Technical Misconfigurations,Non-Hacking
+185,Microsoft Exchange servers,2021,unknown,software,zero-day vulnerabilities,[241],,2021.0,None,Hacking/Cyberattacks,,2021,Technology/IT/Analytics,Zero-Day Vulnerabilities,Hacking
+186,Militarysingles.com,2012,163792,"web, military",accidentally published,[242],163792.0,2012.0,None,Accidental Exposure,163792.0,2012,Energy and Infrastructure,Accidental Exposure,Non-Hacking
+187,Ministry of Education (Chile),2008,6000000,government,accidentally published,[243][244],6000000.0,2008.0,None,Accidental Exposure,6000000.0,2008,Government/Political/Nonprofit,Accidental Exposure,Non-Hacking
+188,Ministry of Health (Singapore),2019,14200,healthcare,poor security/inside job,[245][246],14200.0,2019.0,Healthcare/Wellness,Poor Security Practices,14200.0,2019,Healthcare/Wellness,Poor Security Practices,Non-Hacking
+189,Mitsubishi Tokyo UFJ Bank,2006,960000,financial,intentionally lost,[151],960000.0,2006.0,None,Physical Loss/Theft,960000.0,2006,Financial Services,Physical Loss/Theft,Non-Hacking
+190,MongoDB,2019,202000000,tech,poor security,[247],202000000.0,2019.0,Technology/IT,Poor Security Practices,202000000.0,2019,Technology/IT/Analytics,Poor Security Practices,Non-Hacking
+191,MongoDB,2019,275000000,tech,poor security,[248],275000000.0,2019.0,Technology/IT,Poor Security Practices,275000000.0,2019,Technology/IT/Analytics,Poor Security Practices,Non-Hacking
+192,Mobile TeleSystems (MTS),2019,100000000,telecommunications,misconfiguration/poor security,,100000000.0,2019.0,None,Poor Security Practices,100000000.0,2019,Telecommunications,Poor Security Practices,Non-Hacking
+193,Monster.com,2007,1600000,web,hacked,[249],1600000.0,2007.0,None,Hacking/Cyberattacks,1600000.0,2007,Website/Web Services,Hacking,Hacking
+194,Morgan Stanley Smith Barney,2011,34000,financial,lost / stolen media,[36],34000.0,2011.0,None,Physical Loss/Theft,34000.0,2011,Financial Services,Physical Loss/Theft,Non-Hacking
+195,Morinaga Confectionery,2022,1648922,online shopping,ransomware hacked,[250],1648922.0,2022.0,None,Hacking/Cyberattacks,1648922.0,2022,Retail/Food,Ransomware,Hacking
+196,Mozilla,2014,76000,web,poor security,[251],76000.0,2014.0,None,Poor Security Practices,76000.0,2014,Website/Web Services,Poor Security Practices,Non-Hacking
+197,MyHeritage,2018,92283889,genealogy,unknown,[252],92283889.0,2018.0,None,Unknown/Unspecified,92283889.0,2018,Website/Web Services,Unknown/Unspecified,Non-Hacking
+198,NASDAQ,2014,unknown,financial,hacked,[253],,2014.0,None,Hacking/Cyberattacks,,2014,Financial Services,Hacking,Hacking
+199,Natural Grocers,2015,93 stores,retail,hacked,[254],,2015.0,None,Hacking/Cyberattacks,,2015,Retail/Food,Hacking,Hacking
+200,"NEC Networks, LLC",2021,1600000,healthcare,hacked,[255],1600000.0,2021.0,Healthcare/Wellness,Hacking/Cyberattacks,1600000.0,2021,Healthcare/Wellness,Hacking,Hacking
+201,Neiman Marcus,2014,1100000,retail,hacked,[256][257],1100000.0,2014.0,None,Hacking/Cyberattacks,1100000.0,2014,Retail/Food,Hacking,Hacking
+202,Nemours Foundation,2011,1055489,healthcare,lost / stolen media,[124][258],1055489.0,2011.0,Healthcare/Wellness,Physical Loss/Theft,1055489.0,2011,Healthcare/Wellness,Physical Loss/Theft,Non-Hacking
+203,Network Solutions,2009,573000,tech,hacked,[259][260],573000.0,2009.0,Technology/IT,Hacking/Cyberattacks,573000.0,2009,Technology/IT/Analytics,Hacking,Hacking
+204,New York City Health & Hospitals Corp.,2010,1700000,healthcare,lost / stolen media,[124],1700000.0,2010.0,Healthcare/Wellness,Physical Loss/Theft,1700000.0,2010,Healthcare/Wellness,Physical Loss/Theft,Non-Hacking
+205,New York State Electric & Gas,2012,1800000,energy,inside job,[36],1800000.0,2012.0,None,Insider Threats,1800000.0,2012,Energy and Infrastructure,Insider Threats,Non-Hacking
+206,New York Taxis,2014,52000,transport,poor security,[261],52000.0,2014.0,None,Poor Security Practices,52000.0,2014,Transport/Travel,Poor Security Practices,Non-Hacking
+207,Nexon Korea Corp,2011,13200000,web,hacked,[262],13200000.0,2011.0,None,Hacking/Cyberattacks,13200000.0,2011,Website/Web Services,Hacking,Hacking
+208,NHS,2011,8300000,healthcare,lost / stolen media,[263],8300000.0,2011.0,Healthcare/Wellness,Physical Loss/Theft,8300000.0,2011,Healthcare/Wellness,Physical Loss/Theft,Non-Hacking
+209,Nintendo (Club Nintendo),2013,240000,gaming,hacked,[264],240000.0,2013.0,None,Hacking/Cyberattacks,240000.0,2013,Media/Entertainment/Gaming/Gambling,Hacking,Hacking
+210,Nintendo (Nintendo Account),2020,160000,gaming,hacked,[265],160000.0,2020.0,None,Hacking/Cyberattacks,160000.0,2020,Media/Entertainment/Gaming/Gambling,Hacking,Hacking
+211,Nippon Television,2016,430000,media,hacked,[70],430000.0,2016.0,None,Hacking/Cyberattacks,430000.0,2016,Media/Entertainment/Gaming/Gambling,Hacking,Hacking
+212,Nival Networks,2016,1500000,gaming,hacked,[266],1500000.0,2016.0,None,Hacking/Cyberattacks,1500000.0,2016,Media/Entertainment/Gaming/Gambling,Hacking,Hacking
+213,Norwegian Tax Administration,2008,3950000,government,accidentally published,[267],3950000.0,2008.0,None,Accidental Exposure,3950000.0,2008,Government/Political/Nonprofit,Accidental Exposure,Non-Hacking
+214,Now:Pensions,2020,30000,financial,rogue contractor,[268],30000.0,2020.0,None,Insider Threats,30000.0,2020,Financial Services,Insider Threats,Non-Hacking
+215,Ofcom,2016,unknown,telecom,inside job,[269],,2016.0,None,Insider Threats,,2016,Telecommunications,Insider Threats,Non-Hacking
+216,US Office of Personnel Management,2015,21500000,government,hacked,[270][271],21500000.0,2015.0,None,Hacking/Cyberattacks,21500000.0,2015,Government/Political/Nonprofit,Hacking,Hacking
+217,Office of the Texas Attorney General,2012,6500000,government,accidentally published,[272],6500000.0,2012.0,None,Accidental Exposure,6500000.0,2012,Government/Political/Nonprofit,Accidental Exposure,Non-Hacking
+218,Ohio State University,2010,760000,academic,hacked,[36],760000.0,2010.0,None,Hacking/Cyberattacks,760000.0,2010,Education and Academic,Hacking,Hacking
+219,Orbitz,2018,880000,web,hacked,[273],880000.0,2018.0,None,Hacking/Cyberattacks,880000.0,2018,Website/Web Services,Hacking,Hacking
+220,Oregon Department of Transportation,2011,unknown,government,poor security,[36],,2011.0,None,Poor Security Practices,,2011,Government/Political/Nonprofit,Poor Security Practices,Non-Hacking
+221,OVH,2013,undisclosed,web,hacked,[274],,2013.0,None,Hacking/Cyberattacks,,2013,Website/Web Services,Hacking,Hacking
+222,Patreon,2015,2300000,web,hacked,[275],2300000.0,2015.0,None,Hacking/Cyberattacks,2300000.0,2015,Website/Web Services,Hacking,Hacking
+223,PayPay,2020,20076016,QR code payment,"improper setting, hacked",[276],20076016.0,2020.0,None,Hacking/Cyberattacks,20076016.0,2020,Technology/IT/Analytics,Improper Setting,Hacking
+224,Popsugar,2018,123857,fashion,hacked,[277],123857.0,2018.0,None,Hacking/Cyberattacks,123857.0,2018,Media/Entertainment/Gaming/Gambling,Hacking,Hacking
+225,Premera,2015,11000000,healthcare,hacked,[278],11000000.0,2015.0,Healthcare/Wellness,Hacking/Cyberattacks,11000000.0,2015,Healthcare/Wellness,Hacking,Hacking
+226,Puerto Rico Department of Health,2010,515000,healthcare,hacked,[124],515000.0,2010.0,Healthcare/Wellness,Hacking/Cyberattacks,515000.0,2010,Healthcare/Wellness,Hacking,Hacking
+227,Quest Diagnostics,2019,11900000,Clinical Laboratory,poor security,[279],11900000.0,2019.0,Healthcare/Wellness,Poor Security Practices,11900000.0,2019,Healthcare/Wellness,Poor Security Practices,Non-Hacking
+228,Quora,2018,100000000,Question & Answer,hacked,[280],100000000.0,2018.0,None,Hacking/Cyberattacks,100000000.0,2018,Media/Entertainment/Gaming/Gambling,Hacking,Hacking
+229,Rakuten,2020,1381735,web,"improper setting, hacked",[276],1381735.0,2020.0,None,Hacking/Cyberattacks,1381735.0,2020,Website/Web Services,Improper Setting,Hacking
+230,Rambler.ru,2012,98167935,web,hacked,[281][282],98167935.0,2012.0,None,Hacking/Cyberattacks,98167935.0,2012,Website/Web Services,Hacking,Hacking
+231,RBS Worldpay,2008,1500000,financial,hacked,[283],1500000.0,2008.0,None,Hacking/Cyberattacks,1500000.0,2008,Financial Services,Hacking,Hacking
+232,Reddit,2018,unknown,web,hacked,[284][285],,2018.0,None,Hacking/Cyberattacks,,2018,Website/Web Services,Hacking,Hacking
+233,Restaurant Depot,2011,200000,retail,hacked,[36],200000.0,2011.0,None,Hacking/Cyberattacks,200000.0,2011,Retail/Food,Hacking,Hacking
+234,RockYou!,2009,32000000,"web, gaming",hacked,[286],32000000.0,2009.0,None,Hacking/Cyberattacks,32000000.0,2009,Website/Web Services,Hacking,Hacking
+235,Rosen Hotels,2016,unknown,hotel,hacked,[287],,2016.0,None,Hacking/Cyberattacks,,2016,Transport/Travel,Hacking,Hacking
+236,"Sakai City, Japan",2015,680000,government,inside job,[288],680000.0,2015.0,None,Insider Threats,680000.0,2015,Government/Political/Nonprofit,Insider Threats,Non-Hacking
+237,San Francisco Public Utilities Commission,2011,180000,government,hacked,[289],180000.0,2011.0,None,Hacking/Cyberattacks,180000.0,2011,Government/Political/Nonprofit,Hacking,Hacking
+238,Scottrade,2015,4600000,financial,hacked,[290],4600000.0,2015.0,None,Hacking/Cyberattacks,4600000.0,2015,Financial Services,Hacking,Hacking
+239,Scribd,2013,500000,web,hacked,[291][292],500000.0,2013.0,None,Hacking/Cyberattacks,500000.0,2013,Website/Web Services,Hacking,Hacking
+240,"Seacoast Radiology, PA",2010,231400,healthcare,hacked,[124][293],231400.0,2010.0,Healthcare/Wellness,Hacking/Cyberattacks,231400.0,2010,Healthcare/Wellness,Hacking,Hacking
+241,Sega,2011,1290755,gaming,hacked,[294],1290755.0,2011.0,None,Hacking/Cyberattacks,1290755.0,2011,Media/Entertainment/Gaming/Gambling,Hacking,Hacking
+242,Service Personnel and Veterans Agency (UK),2008,50500,government,lost / stolen media,[295],50500.0,2008.0,None,Physical Loss/Theft,50500.0,2008,Government/Political/Nonprofit,Physical Loss/Theft,Non-Hacking
+243,ShopBack,2020,unknown,tech,hacked,[296],,2020.0,Technology/IT,Hacking/Cyberattacks,,2020,Technology/IT/Analytics,Hacking,Hacking
+244,SingHealth,2018,1500000,"government, database",hacked,[297],1500000.0,2018.0,None,Hacking/Cyberattacks,1500000.0,2018,Government/Political/Nonprofit,Hacking,Hacking
+245,Slack,2015,500000,tech,poor security,[298],500000.0,2015.0,Technology/IT,Poor Security Practices,500000.0,2015,Technology/IT/Analytics,Poor Security Practices,Non-Hacking
+246,SlickWraps,2020,377428,phone accessories,poor security,[299],377428.0,2020.0,None,Poor Security Practices,377428.0,2020,Retail/Food,Poor Security Practices,Non-Hacking
+247,SnapChat,2013,4700000,"web, tech",hacked,[300],4700000.0,2013.0,None,Hacking/Cyberattacks,4700000.0,2013,Technology/IT/Analytics,Hacking,Hacking
+248,SolarWinds,2020,Source Code Compromised,Network Monitoring,hacked,[301],,2020.0,None,Hacking/Cyberattacks,,2020,Technology/IT/Analytics,Hacking,Hacking
+249,Sony Online Entertainment,2011,24600000,gaming,hacked,[302][303],24600000.0,2011.0,None,Hacking/Cyberattacks,24600000.0,2011,Media/Entertainment/Gaming/Gambling,Hacking,Hacking
+250,Sony Pictures,2011,1000000,web,hacked,[304],1000000.0,2011.0,None,Hacking/Cyberattacks,1000000.0,2011,Website/Web Services,Hacking,Hacking
+251,Sony Pictures,2014,100 terabytes,media,hacked,[305],,2014.0,None,Hacking/Cyberattacks,,2014,Media/Entertainment/Gaming/Gambling,Hacking,Hacking
+252,Sony PlayStation Network,2011,77000000,gaming,hacked,[306],77000000.0,2011.0,None,Hacking/Cyberattacks,77000000.0,2011,Media/Entertainment/Gaming/Gambling,Hacking,Hacking
+253,South Africa police,2013,16000,government,hacked,[307],16000.0,2013.0,None,Hacking/Cyberattacks,16000.0,2013,Government/Political/Nonprofit,Hacking,Hacking
+254,South Carolina Government,2012,6400000,healthcare,inside job,[124][308],6400000.0,2012.0,Healthcare/Wellness,Insider Threats,6400000.0,2012,Healthcare/Wellness,Insider Threats,Non-Hacking
+255,"South Shore Hospital, Massachusetts",2010,800000,healthcare,lost / stolen media,[36],800000.0,2010.0,Healthcare/Wellness,Physical Loss/Theft,800000.0,2010,Healthcare/Wellness,Physical Loss/Theft,Non-Hacking
+256,Southern California Medical-Legal Consultants,2011,300000,healthcare,hacked,[36],300000.0,2011.0,Healthcare/Wellness,Hacking/Cyberattacks,300000.0,2011,Healthcare/Wellness,Hacking,Hacking
+257,Spartanburg Regional Healthcare System,2011,400000,healthcare,lost / stolen computer,[124][309],400000.0,2011.0,Healthcare/Wellness,Physical Loss/Theft,400000.0,2011,Healthcare/Wellness,Physical Loss/Theft,Non-Hacking
+258,Stanford University,2008,72000,academic,lost / stolen computer,[36][310],72000.0,2008.0,None,Physical Loss/Theft,72000.0,2008,Education and Academic,Physical Loss/Theft,Non-Hacking
+259,Starbucks,2008,97000,retail,lost / stolen computer,[36],97000.0,2008.0,None,Physical Loss/Theft,97000.0,2008,Retail/Food,Physical Loss/Theft,Non-Hacking
+260,Starwoodincluding Westin Hotels & Resorts and Sheraton Hotels and Resorts,2015,54 locations,hotel,hacked,[311][312],,2015.0,None,Hacking/Cyberattacks,,2015,Transport/Travel,Hacking,Hacking
+261,State of Texas,2011,3500000,government,accidentally published,[313],3500000.0,2011.0,None,Accidental Exposure,3500000.0,2011,Government/Political/Nonprofit,Accidental Exposure,Non-Hacking
+262,Steam,2011,35000000,web,hacked,[314],35000000.0,2011.0,None,Hacking/Cyberattacks,35000000.0,2011,Website/Web Services,Hacking,Hacking
+263,StockX,2019,6800000,retail,hacked,[315],6800000.0,2019.0,None,Hacking/Cyberattacks,6800000.0,2019,Retail/Food,Hacking,Hacking
+264,Stratfor,2011,935000,military,accidentally published,[316],935000.0,2011.0,None,Accidental Exposure,935000.0,2011,Energy and Infrastructure,Accidental Exposure,Non-Hacking
+265,Supervalu,2014,200 stores,retail,hacked,[317],,2014.0,None,Hacking/Cyberattacks,,2014,Retail/Food,Hacking,Hacking
+266,Sutter Medical Center,2011,4243434,healthcare,lost / stolen computer,[124][318],4243434.0,2011.0,Healthcare/Wellness,Physical Loss/Theft,4243434.0,2011,Healthcare/Wellness,Physical Loss/Theft,Non-Hacking
+267,Syrian government (Syria Files),2012,2434899,government,hacked,[319][320],2434899.0,2012.0,None,Hacking/Cyberattacks,2434899.0,2012,Government/Political/Nonprofit,Hacking,Hacking
+268,Taobao,2016,20000000,retail,hacked,[321],20000000.0,2016.0,None,Hacking/Cyberattacks,20000000.0,2016,Retail/Food,Hacking,Hacking
+269,Taringa!,2017,28722877,web,hacked,[322],28722877.0,2017.0,None,Hacking/Cyberattacks,28722877.0,2017,Website/Web Services,Hacking,Hacking
+270,Target Corporation,2013,110000000,retail,hacked,[323][324],110000000.0,2013.0,None,Hacking/Cyberattacks,110000000.0,2013,Retail/Food,Hacking,Hacking
+271,TaxSlayer.com,2016,8800,web,hacked,[325][326][327],8800.0,2016.0,None,Hacking/Cyberattacks,8800.0,2016,Website/Web Services,Hacking,Hacking
+272,TD Ameritrade,2007,6300000,financial,hacked,[328],6300000.0,2007.0,None,Hacking/Cyberattacks,6300000.0,2007,Financial Services,Hacking,Hacking
+273,TD Bank,2012,260000,financial,hacked,[329][330],260000.0,2012.0,None,Hacking/Cyberattacks,260000.0,2012,Financial Services,Hacking,Hacking
+274,TerraCom & YourTel,2013,170000,telecoms,accidentally published,[331][332],170000.0,2013.0,None,Accidental Exposure,170000.0,2013,Telecommunications,Accidental Exposure,Non-Hacking
+275,Tetrad,2020,120000000,market analysis,poor security,[333],120000000.0,2020.0,None,Poor Security Practices,120000000.0,2020,Technology/IT/Analytics,Poor Security Practices,Non-Hacking
+276,Texas Lottery,2007,89000,government,inside job,[36],89000.0,2007.0,None,Insider Threats,89000.0,2007,Government/Political/Nonprofit,Insider Threats,Non-Hacking
+277,Ticketfly (subsidiary of Eventbrite),2018,26151608,ticket distribution,hacked,[334],26151608.0,2018.0,None,Hacking/Cyberattacks,26151608.0,2018,Transport/Travel,Hacking,Hacking
+278,Tianya Club,2011,28000000,web,hacked,[335],28000000.0,2011.0,None,Hacking/Cyberattacks,28000000.0,2011,Website/Web Services,Hacking,Hacking
+279,TikTok,2020,42000000,social media,poor security,[201],42000000.0,2020.0,Social Media,Poor Security Practices,42000000.0,2020,Social Media,Poor Security Practices,Non-Hacking
+280,TK / TJ Maxx,2007,94000000,retail,hacked,[336][337],94000000.0,2007.0,None,Hacking/Cyberattacks,94000000.0,2007,Retail/Food,Hacking,Hacking
+281,"T-Mobile, Deutsche Telekom",2006,17000000,telecoms,lost / stolen media,[338][339],17000000.0,2006.0,None,Physical Loss/Theft,17000000.0,2006,Telecommunications,Physical Loss/Theft,Non-Hacking
+282,T-Mobile,2021,45000000,telecom,hacked,[340],45000000.0,2021.0,None,Hacking/Cyberattacks,45000000.0,2021,Telecommunications,Hacking,Hacking
+283,Tricare,2011,4901432,"military, healthcare",lost / stolen computer,[36],4901432.0,2011.0,Healthcare/Wellness,Physical Loss/Theft,4901432.0,2011,Healthcare/Wellness,Physical Loss/Theft,Non-Hacking
+284,"Triple-S Salud, Inc.",2010,398000,healthcare,lost / stolen media,[124],398000.0,2010.0,Healthcare/Wellness,Physical Loss/Theft,398000.0,2010,Healthcare/Wellness,Physical Loss/Theft,Non-Hacking
+285,Truecaller,2019,299055000,Telephone directory,unknown,[341][342],299055000.0,2019.0,None,Unknown/Unspecified,299055000.0,2019,Telecommunications,Unknown/Unspecified,Non-Hacking
+286,Trump Hotels,2014,8 locations,hotel,hacked,[343][344],,2014.0,None,Hacking/Cyberattacks,,2014,Transport/Travel,Hacking,Hacking
+287,Tumblr,2013,65469298,web,hacked,[345],65469298.0,2013.0,None,Hacking/Cyberattacks,65469298.0,2013,Website/Web Services,Hacking,Hacking
+288,Twitch,2015,unknown,tech,hacked,[346],,2015.0,Technology/IT,Hacking/Cyberattacks,,2015,Technology/IT/Analytics,Hacking,Hacking
+289,Twitch,2021,unknown,tech,hacked/misconfiguration,[347],,2021.0,Technology/IT,Hacking/Cyberattacks,,2021,Technology/IT/Analytics,,Hacking
+290,Twitter,2013,250000,web,hacked,[348],250000.0,2013.0,None,Hacking/Cyberattacks,250000.0,2013,Website/Web Services,Hacking,Hacking
+291,Typeform,2018,unknown,tech,poor security,[75],,2018.0,Technology/IT,Poor Security Practices,,2018,Technology/IT/Analytics,Poor Security Practices,Non-Hacking
+292,Uber,2014,50000,tech,poor security,[349],50000.0,2014.0,Technology/IT,Poor Security Practices,50000.0,2014,Technology/IT/Analytics,Poor Security Practices,Non-Hacking
+293,Uber,2017,57000000,transport,hacked,[350],57000000.0,2017.0,None,Hacking/Cyberattacks,57000000.0,2017,Transport/Travel,Hacking,Hacking
+294,Ubisoft,2013,unknown,gaming,hacked,[351],,2013.0,None,Hacking/Cyberattacks,,2013,Media/Entertainment/Gaming/Gambling,Hacking,Hacking
+295,Ubuntu,2013,2000000,tech,hacked,[352],2000000.0,2013.0,Technology/IT,Hacking/Cyberattacks,2000000.0,2013,Technology/IT/Analytics,Hacking,Hacking
+296,"UCLA Medical Center, Santa Monica",2015,4500000,healthcare,hacked,[353],4500000.0,2015.0,Healthcare/Wellness,Hacking/Cyberattacks,4500000.0,2015,Healthcare/Wellness,Hacking,Hacking
+297,UK Home Office,2008,84000,government,lost / stolen media,[354],84000.0,2008.0,None,Physical Loss/Theft,84000.0,2008,Government/Political/Nonprofit,Physical Loss/Theft,Non-Hacking
+298,UK Ministry of Defence,2008,1700000,government,lost / stolen media,[355],1700000.0,2008.0,None,Physical Loss/Theft,1700000.0,2008,Government/Political/Nonprofit,Physical Loss/Theft,Non-Hacking
+299,UK Revenue & Customs,2007,25000000,government,lost / stolen media,[356],25000000.0,2007.0,None,Physical Loss/Theft,25000000.0,2007,Government/Political/Nonprofit,Physical Loss/Theft,Non-Hacking
+300,Universiti Teknologi MARA,2019,1164540,academic,hacked,[357],1164540.0,2019.0,None,Hacking/Cyberattacks,1164540.0,2019,Education and Academic,Hacking,Hacking
+301,Under Armour,2018,150000000,Consumer Goods,hacked,[358],150000000.0,2018.0,None,Hacking/Cyberattacks,150000000.0,2018,Retail/Food,Hacking,Hacking
+302,"University of California, Berkeley",2009,160000,academic,hacked,[359],160000.0,2009.0,None,Hacking/Cyberattacks,160000.0,2009,Education and Academic,Hacking,Hacking
+303,"University of California, Berkeley",2016,80000,academic,hacked,[360],80000.0,2016.0,None,Hacking/Cyberattacks,80000.0,2016,Education and Academic,Hacking,Hacking
+304,"University of Maryland, College Park",2014,300000,academic,hacked,[361],300000.0,2014.0,None,Hacking/Cyberattacks,300000.0,2014,Education and Academic,Hacking,Hacking
+305,University of Central Florida,2016,63000,academic,hacked,[362],63000.0,2016.0,None,Hacking/Cyberattacks,63000.0,2016,Education and Academic,Hacking,Hacking
+306,University of Miami,2008,2100000,academic,lost / stolen computer,[36],2100000.0,2008.0,None,Physical Loss/Theft,2100000.0,2008,Education and Academic,Physical Loss/Theft,Non-Hacking
+307,University of Utah Hospital & Clinics,2008,2200000,academic,lost / stolen media,[36],2200000.0,2008.0,None,Physical Loss/Theft,2200000.0,2008,Education and Academic,Physical Loss/Theft,Non-Hacking
+308,University of Wisconsin–Milwaukee,2011,73000,academic,hacked,[36],73000.0,2011.0,None,Hacking/Cyberattacks,73000.0,2011,Education and Academic,Hacking,Hacking
+309,United States Postal Service,2018,60000000,government,poor security,[363],60000000.0,2018.0,None,Poor Security Practices,60000000.0,2018,Government/Political/Nonprofit,Poor Security Practices,Non-Hacking
+310,UPS,2014,51 locations,retail,hacked,[364],,2014.0,None,Hacking/Cyberattacks,,2014,Retail/Food,Hacking,Hacking
+311,U.S. Army,2011,50000,military,accidentally published,[36],50000.0,2011.0,None,Accidental Exposure,50000.0,2011,Energy and Infrastructure,Accidental Exposure,Non-Hacking
+312,U.S. Army(classified Iraq War documents),2010,392000,government,inside job,[365],392000.0,2010.0,None,Insider Threats,392000.0,2010,Government/Political/Nonprofit,Insider Threats,Non-Hacking
+313,U.S. Department of Defense,2009,72000,military,lost / stolen media,[36],72000.0,2009.0,None,Physical Loss/Theft,72000.0,2009,Energy and Infrastructure,Physical Loss/Theft,Non-Hacking
+314,U.S. Department of Veteran Affairs,2006,26500000,"government, military",lost / stolen computer,[366],26500000.0,2006.0,None,Physical Loss/Theft,26500000.0,2006,Government/Political/Nonprofit,Physical Loss/Theft,Non-Hacking
+315,U.S. federal government (2020 United States federal government data breach),2020,TBC,"government, military",hacked,[367][368][369][370],,2020.0,None,Hacking/Cyberattacks,,2020,Government/Political/Nonprofit,Hacking,Hacking
+316,U.S. law enforcement (70 different agencies),2011,123461,government,accidentally published,[371],123461.0,2011.0,None,Accidental Exposure,123461.0,2011,Government/Political/Nonprofit,Accidental Exposure,Non-Hacking
+317,National Archives and Records Administration (U.S. military veterans records),2009,76000000,military,lost / stolen media,[372],76000000.0,2009.0,None,Physical Loss/Theft,76000000.0,2009,Energy and Infrastructure,Physical Loss/Theft,Non-Hacking
+318,U.S. government (United States diplomatic cables leak),2010,260000,military,inside job,[373],260000.0,2010.0,None,Insider Threats,260000.0,2010,Energy and Infrastructure,Insider Threats,Non-Hacking
+319,National Guard of the United States,2009,131000,military,lost / stolen computer,[36],131000.0,2009.0,None,Physical Loss/Theft,131000.0,2009,Energy and Infrastructure,Physical Loss/Theft,Non-Hacking
+320,Vastaamo,2020,130000,healthcare,hacked,[374],130000.0,2020.0,Healthcare/Wellness,Hacking/Cyberattacks,130000.0,2020,Healthcare/Wellness,Hacking,Hacking
+321,Verizon Communications,2016,1500000,telecoms,hacked,[375],1500000.0,2016.0,None,Hacking/Cyberattacks,1500000.0,2016,Telecommunications,Hacking,Hacking
+322,View Media,2020,38000000,online marketing,publicly accessible Amazon Web Services (AWS) server,[376],38000000.0,2020.0,None,Technical Misconfigurations,38000000.0,2020,Media/Entertainment/Gaming/Gambling,Technical Misconfigurations,Non-Hacking
+323,Virgin Media,2020,900000,mobile carrier,accidentally exposed,[377][378],900000.0,2020.0,None,Accidental Exposure,900000.0,2020,Telecommunications,Accidental Exposure,Non-Hacking
+324,Virginia Department of Health,2009,8257378,"government, healthcare",hacked,[36],8257378.0,2009.0,None,Hacking/Cyberattacks,8257378.0,2009,Government/Political/Nonprofit,Hacking,Hacking
+325,Virginia Prescription Monitoring Program,2009,531400,healthcare,hacked,[36],531400.0,2009.0,Healthcare/Wellness,Hacking/Cyberattacks,531400.0,2009,Healthcare/Wellness,Hacking,Hacking
+326,Vodafone,2013,2000000,telecoms,inside job,[379],2000000.0,2013.0,None,Insider Threats,2000000.0,2013,Telecommunications,Insider Threats,Non-Hacking
+327,VTech,2015,5000000,retail,hacked,[380],5000000.0,2015.0,None,Hacking/Cyberattacks,5000000.0,2015,Retail/Food,Hacking,Hacking
+328,Walmart,2015,1300000,retail,hacked,[97],1300000.0,2015.0,None,Hacking/Cyberattacks,1300000.0,2015,Retail/Food,Hacking,Hacking
+329,Washington Post,2011,1270000,media,hacked,[381],1270000.0,2011.0,None,Hacking/Cyberattacks,1270000.0,2011,Media/Entertainment/Gaming/Gambling,Hacking,Hacking
+330,Washington State court system,2013,160000,government,hacked,[382][383],160000.0,2013.0,None,Hacking/Cyberattacks,160000.0,2013,Government/Political/Nonprofit,Hacking,Hacking
+331,Wattpad,2020,270000000,web,hacked,[384],270000000.0,2020.0,None,Hacking/Cyberattacks,270000000.0,2020,Website/Web Services,Hacking,Hacking
+332,Wawa (company),2020,30000000,retail,hacked,[385],30000000.0,2020.0,None,Hacking/Cyberattacks,30000000.0,2020,Retail/Food,Hacking,Hacking
+333,Weebly,2016,43430316,web,hacked,[386][387],43430316.0,2016.0,None,Hacking/Cyberattacks,43430316.0,2016,Website/Web Services,Hacking,Hacking
+334,Wendy's,2015,unknown,restaurant,hacked,[388][389],,2015.0,None,Hacking/Cyberattacks,,2015,Retail/Food,Hacking,Hacking
+335,Westpac,2019,98000,financial,hacked,[390],98000.0,2019.0,None,Hacking/Cyberattacks,98000.0,2019,Financial Services,Hacking,Hacking
+336,Woodruff Arts Center,2019,unknown,arts group,poor security,[391],,2019.0,None,Poor Security Practices,,2019,Media/Entertainment/Gaming/Gambling,Poor Security Practices,Non-Hacking
+337,WordPress,2018,,web service,hacked,[392],,2018.0,None,Hacking/Cyberattacks,,2018,Website/Web Services,Hacking,Hacking
+338,Writerspace.com,2011,62000,web,hacked,[393],62000.0,2011.0,None,Hacking/Cyberattacks,62000.0,2011,Website/Web Services,Hacking,Hacking
+339,Xat.com,2015,6054459,web,social engineering,[394],6054459.0,2015.0,None,Social Engineering,6054459.0,2015,Website/Web Services,Social Engineering,Non-Hacking
+340,Yahoo,2013,3000000000,web,hacked,[395][396],3000000000.0,2013.0,None,Hacking/Cyberattacks,3000000000.0,2013,Website/Web Services,Hacking,Hacking
+341,Yahoo,2014,500000000,web,hacked,[397][398][399][400][401],500000000.0,2014.0,None,Hacking/Cyberattacks,500000000.0,2014,Website/Web Services,Hacking,Hacking
+342,Yahoo Japan,2013,22000000,"tech, web",hacked,[402],22000000.0,2013.0,None,Hacking/Cyberattacks,22000000.0,2013,Technology/IT/Analytics,Hacking,Hacking
+343,Yahoo! Voices,2012,450000,web,hacked,[403][404],450000.0,2012.0,None,Hacking/Cyberattacks,450000.0,2012,Website/Web Services,Hacking,Hacking
+344,Yale University,2010,43000,academic,accidentally published,[36],43000.0,2010.0,None,Accidental Exposure,43000.0,2010,Education and Academic,Accidental Exposure,Non-Hacking
+345,YouTube,2020,4000000,social media,poor security,[201],4000000.0,2020.0,Social Media,Poor Security Practices,4000000.0,2020,Social Media,Poor Security Practices,Non-Hacking
+346,Zappos,2012,24000000,web,hacked,[405],24000000.0,2012.0,None,Hacking/Cyberattacks,24000000.0,2012,Website/Web Services,Hacking,Hacking
+347,Zynga,2019,173000000,social network,hacked,[406][407],173000000.0,2019.0,Social Media,Hacking/Cyberattacks,173000000.0,2019,Social Media,Hacking,Hacking
+348,Unknown agency(believed to be tied to United States Census Bureau),2020,200000000,financial,accidentally published,[408],200000000.0,2020.0,None,Accidental Exposure,200000000.0,2020,Financial Services,Accidental Exposure,Non-Hacking
+349,National Health Information Center (NCZI) of Slovakia,2020,391250,healthcare,poor security,[409],391250.0,2020.0,Healthcare/Wellness,Poor Security Practices,391250.0,2020,Healthcare/Wellness,Poor Security Practices,Non-Hacking
+350,50 companies and government institutions,2022,6400000,various,poor security,[410] [411],6400000.0,2022.0,None,Poor Security Practices,6400000.0,2022,Website/Web Services,Poor Security Practices,Non-Hacking
+351,IKEA,2022,95000,retail,accidentally published,[412],95000.0,2022.0,None,Accidental Exposure,95000.0,2022,Retail/Food,Accidental Exposure,Non-Hacking
